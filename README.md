@@ -66,7 +66,7 @@
 
 ## Contributing
 
-Your contributions are always welcome! Please read our [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome! Please ensure your suggestion isn't a duplicate before submitting PR.
 
 ## License
 
