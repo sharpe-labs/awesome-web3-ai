@@ -1,23 +1,25 @@
-# Awesome Web3 x AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **Awesome Web3 x AI** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <div align="center">
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Web3AI-4qOmApeevy3cIasn3Mak2BwOB53GzM.png" alt="Web3 x AI Banner" width="1280">
   
-  > A curated list of awesome Web3 and AI integrations, frameworks, and tools
+  ### _A curated list of awesome Web3 and AI integrations, frameworks, and tools_
   
   [![Contributors](https://img.shields.io/github/contributors/edwardtay/awesome-web3-ai.svg?style=flat)](https://github.com/edwardtay/awesome-web3-ai/graphs/contributors)
   [![Last Commit](https://img.shields.io/github/last-commit/edwardtay/awesome-web3-ai.svg?style=flat)](https://github.com/edwardtay/awesome-web3-ai/commits/master)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 </div>
 
-## Contents
+---
 
-- [🔗 Protocols](#-protocols)
-- [🛠 Frameworks](#-frameworks)
-- [🧰 Tooling, Libraries](#-tooling-libraries)
-- [📊 Data](#-data)
+## **Contents**
 
-## 🔗 Protocols
+- [🔗 **Protocols**](#-protocols)
+- [🛠 **Frameworks**](#-frameworks)
+- [🧰 **Tooling, Libraries**](#-tooling-libraries)
+- [📊 **Data**](#-data)
+
+## 🔗 **Protocols**
 
 - $AGIX [SingularityNET](https://github.com/singnet) ⭐ 2.1k • 🟡 JavaScript ![GitHub followers](https://img.shields.io/github/followers/singnet?style=social)
 - $AI16Z [AI16Z](https://github.com/elizaOS) ⭐ 340 • 🔵 Python ![GitHub followers](https://img.shields.io/github/followers/elizaOS?style=social)
@@ -40,7 +42,7 @@
 - $VANA [Vana](https://github.com/vana-com) ⭐ 280 ![GitHub followers](https://img.shields.io/github/followers/vana-com?style=social)
 - $VIRTUAL [Virtuals Protocol](https://github.com/Virtual-Protocol) ⭐ 230 ![GitHub followers](https://img.shields.io/github/followers/Virtual-Protocol?style=social)
 
-## 🛠 Frameworks
+## 🛠 **Frameworks**
 
 - [Eliza](https://github.com/elizaOS/eliza) `🔵 py` ⭐ 250 ![GitHub forks](https://img.shields.io/github/forks/elizaOS/eliza?style=social)
 - [FetchAI](https://github.com/fetchai/uAgents) `🔵 py` ⭐ 890 ![GitHub forks](https://img.shields.io/github/forks/fetchai/uAgents?style=social)
@@ -49,13 +51,13 @@
 - [Heurist](https://github.com/heurist-network/heurist-agent-framework) `🔵 py` ⭐ 320 ![GitHub forks](https://img.shields.io/github/forks/heurist-network/heurist-agent-framework?style=social)
 - [ZerePy](https://github.com/blorm-network/ZerePy) `🔵 py` ⭐ 140 ![GitHub forks](https://img.shields.io/github/forks/blorm-network/ZerePy?style=social)
 
-## 🧰 Tooling, Libraries
+## 🧰 **Tooling, Libraries**
 
 - [AgentKit](https://github.com/coinbase/agentkit) `🟤 rs` ⭐ 1.2k ![GitHub forks](https://img.shields.io/github/forks/coinbase/agentkit?style=social)
 - [Rig](https://github.com/0xPlaygrounds/rig) `🟡 js` ⭐ 150 ![GitHub forks](https://img.shields.io/github/forks/0xPlaygrounds/rig?style=social)
 - [Sendai](https://github.com/sendaifun/solana-agent-kit) `🟡 js` ⭐ 95 ![GitHub forks](https://img.shields.io/github/forks/sendaifun/solana-agent-kit?style=social)
 
-## 📊 Data
+## 📊 **Data**
 
 - [CoinGecko](https://coingecko.com/en/categories/artificial-intelligence)
 - [CoinMarketCap](https://coinmarketcap.com/view/ai-big-data/)
