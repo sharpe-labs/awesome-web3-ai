@@ -10,6 +10,74 @@
 
 ---
 
+```mermaid
+mindmap
+    root((Web3 + AI))
+        [Infrastructure]
+            ((AI Models))
+                NLP[Natural Language]
+                CV[Computer Vision]
+                MM[Multi-Modal]
+            ((Data Storage))
+                VDB[Vector DBs]
+                Search
+                Indexing
+            ((Orchestration))
+                Workflows
+                Agents
+        
+        [Blockchain]
+            ((Smart Contracts))
+                Logic
+                Standards
+            ((Networks))
+                L1
+                L2
+                Sidechains
+            ((Storage))
+                IPFS
+                Arweave
+        
+        [Integration]
+            ((Analytics))
+                Processing
+                Insights
+            ((Bridges))
+                Cross-Chain
+                AI-Chain
+            ((Oracles))
+                Data Feeds
+                Compute
+            ((Tokens))
+                Utility
+                Gov
+        
+        [DevTools]
+            ((Languages))
+                Solidity
+                Rust
+            ((Security))
+                Testing
+                Auditing
+            ((AI Tools))
+                Generation
+                Analysis
+            ((IDEs))
+                Debug
+                Deploy
+        
+        [dApps]
+            ((DeFi))
+                Trading
+                Analytics
+            ((GameFi))
+                NPCs
+                Worlds
+            ((Social))
+                Content
+                Identity
+```
+
 ## **Contents**
 
 - [🔗 **Protocols**](#-protocols)
