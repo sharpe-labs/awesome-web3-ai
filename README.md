@@ -1,16 +1,8 @@
 # **Awesome Web3 x AI** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Web3AI-4qOmApeevy3cIasn3Mak2BwOB53GzM.png" alt="Web3 x AI Banner" width="1280">
   
-  ### _A curated list of awesome Web3 and AI integrations, frameworks, and tools_
-  
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-</div>
-
----
-
-```mermaid
+ ```mermaid
 mindmap
     root((Web3 + AI))
         [Infrastructure]
@@ -25,7 +17,6 @@ mindmap
             ((Orchestration))
                 Workflows
                 Agents
-        
         [Blockchain]
             ((Smart Contracts))
                 Logic
@@ -50,8 +41,7 @@ mindmap
                 Compute
             ((Tokens))
                 Utility
-                Gov
-        
+                Gov      
         [DevTools]
             ((Languages))
                 Solidity
@@ -65,7 +55,6 @@ mindmap
             ((IDEs))
                 Debug
                 Deploy
-        
         [dApps]
             ((DeFi))
                 Trading
@@ -77,6 +66,13 @@ mindmap
                 Content
                 Identity
 ```
+  
+  ### _A curated list of awesome Web3 and AI integrations, frameworks, and tools_
+  
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+</div>
+
+---
 
 ## **Contents**
 
